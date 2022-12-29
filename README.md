@@ -8,7 +8,6 @@ My name is Viktor Atanasov. I am a **Full-Stack Javascript Developer** with a st
 ![skills](https://skillicons.dev/icons?i=js,nodejs,express,ts,angular,mongodb,firebase,netlify,git,vscode,figma&theme=dark)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ViktorAtanasof&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ViktorAtanasof&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorAtanasof&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
