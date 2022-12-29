@@ -16,3 +16,11 @@ My name is Viktor Atanasov. I am a **Full-Stack Javascript Developer** with a st
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorAtanasof&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </details>
+
+<details open> 
+  <summary><h2>📘 My Projects</h2></summary>
+
+  <p align="left">
+    <a href="https://github.com/ViktorAtanasof/github-readme-streak-stats"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ViktorAtanasof&repo=ambrosia&theme=gotham&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ambrosia"></a>
+  </p>
+</details>
