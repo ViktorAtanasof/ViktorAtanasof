@@ -7,6 +7,7 @@ My name is Viktor Atanasov. I am a **Full-Stack Javascript Developer** with a st
 ## 🔧 Technologies & Tools
 ![skills](https://skillicons.dev/icons?i=js,nodejs,express,ts,angular,mongodb,firebase,netlify,git,vscode,figma&theme=dark)
 
+---
 
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
