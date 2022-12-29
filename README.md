@@ -4,6 +4,8 @@
 
 My name is Viktor Atanasov. I am a **Full-Stack Javascript Developer** with a strong passion for creating visually appealing and user-friendly websites. I am also deeply interested in **Web Development**, **Web3**, **Artificial Intelligence** and I am always looking for ways to incorporate new technologies into my projects.
 
+---
+
 <details open> 
   <summary><h2>📘 My Projects</h2></summary>
 
