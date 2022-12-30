@@ -10,7 +10,7 @@ My name is Viktor Atanasov. I am a **Full-Stack Javascript Developer** with a st
   <summary><h2>📘 My Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/ViktorAtanasof/ambrosia"><img width="385" src="https://github-readme-stats.vercel.app/api/pin/?username=ViktorAtanasof&repo=ambrosia&theme=gotham&bg_color=1b1b27&title_color=c08ef1&hide_border=true&icon_color=79a2fb&show_icons=false" alt="ambrosia"></a>
+    <a href="https://github.com/ViktorAtanasof/ambrosia"><img width="385" src="https://github-readme-stats.vercel.app/api/pin/?username=ViktorAtanasof&repo=ambrosia&theme=tokyonight&hide_border=true&show_icons=false" alt="ambrosia"></a>
   </p>
 </details>
 
