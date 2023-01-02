@@ -4,7 +4,7 @@
 
 My name is Viktor Atanasov. I am a **Full-Stack Javascript Developer** with a strong passion for creating visually appealing and user-friendly websites. I am also deeply interested in **Web Development**, **Web3**, **Artificial Intelligence** and I am always looking for ways to incorporate new technologies into my projects.
 
-### How to reach me:
+### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/viktor-atanasov-profile/"><img src="https://img.shields.io/badge/Viktor Atanasov-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 
 ---
