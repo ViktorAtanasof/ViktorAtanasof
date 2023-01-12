@@ -13,7 +13,7 @@ My name is Viktor Atanasov. I am a **Full-Stack Javascript Developer** with a st
   <summary><h2>📘 My Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/ViktorAtanasof/ambrosia"><img width="385" src="https://github-readme-stats.vercel.app/api/pin/?username=ViktorAtanasof&repo=ambrosia&theme=tokyonight&hide_border=true&show_icons=false" alt="ambrosia"></a>
+    <a href="https://github.com/ViktorAtanasof/ambrosia"><img width="385" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ViktorAtanasof&repo=ambrosia&theme=tokyonight&hide_border=true&show_icons=false" alt="ambrosia"></a>
   </p>
 </details>
 
@@ -28,7 +28,7 @@ My name is Viktor Atanasov. I am a **Full-Stack Javascript Developer** with a st
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ViktorAtanasof&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorAtanasof&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ViktorAtanasof&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </details>
 
