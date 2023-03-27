@@ -11,8 +11,9 @@ My name is Viktor Atanasov. I am a **Full-Stack Javascript Developer** with a st
 
 <details open> 
   <summary><h2>📘 My Projects</h2></summary>
-
+  
   <p align="left">
+    <a href="https://github.com/ViktorAtanasof/bulmarks"><img width="385" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ViktorAtanasof&repo=bulmarks&theme=react&hide_border=true&show_icons=false" alt="bulmarks"></a>
     <a href="https://github.com/ViktorAtanasof/ambrosia"><img width="385" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ViktorAtanasof&repo=ambrosia&theme=tokyonight&hide_border=true&show_icons=false" alt="ambrosia"></a>
   </p>
 </details>
@@ -20,7 +21,7 @@ My name is Viktor Atanasov. I am a **Full-Stack Javascript Developer** with a st
 ---
 
 ## 🔧 Technologies & Tools
-![skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,ts,angular,mongodb,firebase,netlify,git,vscode,figma&theme=dark&perline=7)
+![skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,ts,tailwind,angular,mongodb,firebase,vercel,netlify,git,vscode,figma&theme=dark&perline=8)
 
 ---
 
