@@ -21,7 +21,7 @@ My name is Viktor Atanasov. I am a **Web Developer** with a strong passion for c
 ---
 
 ## 🔧 Technologies & Tools
-![skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,webpack,tailwind,ts,angular,mongodb,firebase,vercel,netlify,git,vscode,figma&theme=dark&perline=8)
+![skills](https://skillicons.dev/icons?i=js,html,css,react,sass,nodejs,webpack,tailwind,ts,express,angular,mongodb,firebase,vercel,netlify,git,vscode,figma&theme=dark&perline=9)
 
 ---
 
