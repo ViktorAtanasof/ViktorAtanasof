@@ -13,7 +13,8 @@ My name is Viktor Atanasov. I am a **Web Developer** with a strong passion for c
   <summary><h2>📘 My Projects</h2></summary>
   
   <p align="left">
-    <a href="https://github.com/ViktorAtanasof/bulmarks"><img width="385" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ViktorAtanasof&repo=bulmarks&theme=react&hide_border=true&show_icons=false" alt="bulmarks"></a>
+    <a href="https://github.com/ViktorAtanasof/bulmarks"><img width="385" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ViktorAtanasof&repo=bulmarks&theme=blueberry&hide_border=true&show_icons=false" alt="bulmarks"></a>
+    <a href="https://github.com/ViktorAtanasof/technovida"><img width="385" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ViktorAtanasof&repo=technovida&theme=react&hide_border=true&show_icons=false" alt="technovida"></a>
     <a href="https://github.com/ViktorAtanasof/ambrosia"><img width="385" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ViktorAtanasof&repo=ambrosia&theme=tokyonight&hide_border=true&show_icons=false" alt="ambrosia"></a>
   </p>
 </details>
